@@ -1,0 +1,9 @@
+[ignore]
+.*/node_modules/.*
+.*/scripts/.*
+.*/build/.*
+.*/flow-typed/.*
+
+[options]
+munge_underscores=true
+all=true

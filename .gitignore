@@ -1,0 +1,23 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+#braintree lib
+/public/braintree
+
+# dependencies
+/node_modules
+
+# production
+/build
+
+# private stuff
+/public/.htaccess
+/public/sendMail.php
+/public/doPayment.php
+/public/.user.ini
+/public/prisliste.txt
+About.js
+
+# misc
+.DS_Store
+npm-debug.log*
+/.vscode

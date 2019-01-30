@@ -1,0 +1,843 @@
+[
+  {
+    "name": "Apple 30-pin USB Kabel",
+    "sku": "apple-30-pin-usb-kabel",
+    "categories": ["usb", "diverse"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 2,
+        "variant": "",
+        "description": "Passer alle eldre Apple produkter med 30-pin kontakt."
+      }
+    ]
+  },
+  {
+    "name": "Apple Lightning USB Kabel",
+    "sku": "apple-lightning-usb-kabel",
+    "categories": ["usb", "diverse"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 4,
+        "variant": "1m",
+        "description": "Lightning USB kabel. Passer alle nyere Apple produkter. Heavy duty 2.0A strømkapasitet."
+      }
+    ]
+  },
+  {
+    "name": "Coaxial Digitalkabel",
+    "sku": "coaxial-digitalkabel",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 4,
+        "variant": "50cm",
+        "description": "Coaxial / SPDIF digital kabel av høy kvalitet. Brukes til overføring av digital lyd mellom kilde og f.eks en surround forsterker."
+      },
+      {
+        "price": 98,
+        "stock": 3,
+        "variant": "3m",
+        "description": "Coaxial / SPDIF digital kabel av høy kvalitet. Brukes til overføring av digital lyd mellom kilde og f.eks en surround forsterker."
+      },
+      {
+        "price": 129,
+        "stock": 3,
+        "variant": "1m",
+        "description": "Coaxial / SPDIF digital kabel av høy kvalitet. Brukes til overføring av digital lyd mellom kilde og f.eks en surround forsterker."
+      }
+    ]
+  },
+  {
+    "name": "Displayport Kabel",
+    "sku": "displayport-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 4,
+        "variant": "2m",
+        "description": "Standard displayport kabel. Gullbelagte kontaktflater."
+      }
+    ]
+  },
+  {
+    "name": "DVI Kabel",
+    "sku": "dvi-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      { "price": 79, "stock": 3, "variant": "1m", "description": "Standard DVI kabel. Gullbelagte kontaktflater." },
+      { "price": 129, "stock": 4, "variant": "3m", "description": "Standard DVI kabel. Gullbelagte kontaktflater." }
+    ]
+  },
+  {
+    "name": "Ethernet / LAN nettverkskabel",
+    "sku": "ethernet-lan-nettverkskabel",
+    "categories": ["diverse"],
+    "variants": [
+      { "price": 39, "stock": 5, "variant": "20cm", "description": "Standard ethernet / LAN nettverkskabel (Cat5E)." },
+      { "price": 59, "stock": 4, "variant": "1m", "description": "Standard ethernet / LAN nettverkskabel (Cat5E)." },
+      { "price": 89, "stock": 5, "variant": "3m", "description": "Standard ethernet / LAN nettverkskabel (Cat5E)." },
+      { "price": 119, "stock": 5, "variant": "5m", "description": "Standard ethernet / LAN nettverkskabel (Cat5E)." }
+    ]
+  },
+  {
+    "name": "Gamecube / N64 / SNES AV Kabel",
+    "sku": "gamecube-n64-snes-av-kabel",
+    "categories": ["diverse", "bilde", "lyd"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 2,
+        "variant": "",
+        "description": "AV-kabel for Gamecube, Nintendo 64, og SNES (Super Nintendo)."
+      }
+    ]
+  },
+  {
+    "name": "HDMI Extension Adapter",
+    "sku": "hdmi-extension-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 59,
+        "stock": 5,
+        "variant": "",
+        "description": "HDMI extension adapter. Kan brukes for å skjøte 2 HDMI kabler sammen. Pris pr stk."
+      }
+    ]
+  },
+  {
+    "name": "HDMI Kabel",
+    "sku": "hdmi-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 4,
+        "variant": "50cm",
+        "description": "HDMI kabel av god kvalitet. Gullbelagte kontakter i begge ender for best mulig signaloverføring."
+      },
+      {
+        "price": 98,
+        "stock": 2,
+        "variant": "1m",
+        "description": "HDMI kabel av god kvalitet. Gullbelagte kontakter i begge ender for best mulig signaloverføring."
+      },
+      {
+        "price": 119,
+        "stock": 4,
+        "variant": "2m",
+        "description": "HDMI kabel av god kvalitet. Gullbelagte kontakter i begge ender for best mulig signaloverføring."
+      },
+      {
+        "price": 139,
+        "stock": 4,
+        "variant": "3m",
+        "description": "HDMI kabel av god kvalitet. Gullbelagte kontakter i begge ender for best mulig signaloverføring."
+      },
+      {
+        "price": 159,
+        "stock": 1,
+        "variant": "5m",
+        "description": "HDMI kabel av god kvalitet. Gullbelagte kontakter i begge ender for best mulig signaloverføring."
+      }
+    ]
+  },
+  {
+    "name": "HDMI til Displayport Adapter",
+    "sku": "hdmi-til-displayport-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 4,
+        "variant": "",
+        "description": "HDMI til Displayport adapter. Kan benyttes som overgang mellom nevnte grensesnitt."
+      }
+    ]
+  },
+  {
+    "name": "HDMI til DVI Adapter",
+    "sku": "hdmi-til-dvi-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 0,
+        "variant": "",
+        "description": "HDMI (hunn) til DVI (hann) adapter. Brukes som overgang mellom nevnte grensesnitt. Gullbelagte kontaktflater."
+      }
+    ]
+  },
+  {
+    "name": "HDMI til DVI kabel",
+    "sku": "hdmi-til-dvi-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 98,
+        "stock": 3,
+        "variant": "1m",
+        "description": "HDMI til DVI kabel adapter kabel av god kvalitet. Kan benyttes som overgang mellom nevnte grensesnitt. Lengde 1m."
+      }
+    ]
+  },
+  {
+    "name": "HDMI til Micro-HDMI Adapter",
+    "sku": "hdmi-til-micro-hdmi-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 69,
+        "stock": 10,
+        "variant": "",
+        "description": "HDMI (hunn) til micro-HDMI (hann) adapter/overgang. Gullbelagte kontakter i begge ender. Lengde omtrent 20 cm."
+      }
+    ]
+  },
+  {
+    "name": "HDMI til Mini-DisplayPort Adapter",
+    "sku": "hdmi-til-mini-displayport-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 10,
+        "variant": "",
+        "description": "HDMI (hunn) til Mini DisplayPort (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt."
+      }
+    ]
+  },
+  {
+    "name": "HDMI til USB-C Adapter",
+    "sku": "hdmi-til-usb-c-adapter",
+    "categories": ["bilde", "usb"],
+    "variants": [
+      {
+        "price": 179,
+        "stock": 0,
+        "variant": "",
+        "description": "Overgang fra HDMI til USB-C. Spesielt nyttig på nyere utstyr med kun USB-C utganger, og ikke HDMI."
+      }
+    ]
+  },
+  {
+    "name": "HDMI til VGA adapter",
+    "sku": "hdmi-til-vga-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 198,
+        "stock": 6,
+        "variant": "",
+        "description": "Konverterer et digitalt HDMI signal til analogt VGA, med minijack lyd ut. Strømforsyning via micro-USB (kabel følger med), som kan brukes dersom video-utgangen ikke alene gir nok strøm."
+      }
+    ]
+  },
+  {
+    "name": "HDMI Vinkel Adapter",
+    "sku": "hdmi-vinkel-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 69,
+        "stock": 0,
+        "variant": "",
+        "description": "HDMI vinkel adapter. Egner seg godt til bruk i trange applikasjoner, som f.eks bak en flat-tv eller lignende."
+      }
+    ]
+  },
+  {
+    "name": "Headset (minijack) Extension Kabel",
+    "sku": "headset-minijack-extension-kabel",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 59,
+        "stock": 1,
+        "variant": "",
+        "description": "Kort Mini-jack extension kabel av høy kvalitet. Lengde ca. 17cm. Gullbelagte kontaktflater."
+      }
+    ]
+  },
+  {
+    "name": "Headset Kabel (Minijack)",
+    "sku": "headset-minijack-kabel",
+    "categories": ["lyd"],
+    "variants": [
+      { "price": 79, "stock": 2, "variant": "1m", "description": "Headset/minijack kabel av høy kvalitet. Lengde 1m." }
+    ]
+  },
+  {
+    "name": "Jack Kabel",
+    "sku": "jack-kabel",
+    "categories": ["lyd"],
+    "variants": [{ "price": 98, "stock": 5, "variant": "3m", "description": "Standard 3 meter lang jack kabel" }]
+  },
+  {
+    "name": "Jack til Minijack Adapter",
+    "sku": "jack-til-minijack-adapter",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 59,
+        "stock": 3,
+        "variant": "",
+        "description": "Jack (hunn) til minijack (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt. Pris pr. stk."
+      }
+    ]
+  },
+  {
+    "name": "Jack til XLR adapter",
+    "sku": "jack-til-xlr-adapter",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 10,
+        "variant": "",
+        "description": "Jack (hunn) til XLR (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt. Heavy duty konstruksjon."
+      }
+    ]
+  },
+  {
+    "name": "Kompositt AV-kabel",
+    "sku": "kompositt-av-kabel",
+    "categories": ["bilde", "lyd"],
+    "variants": [
+      {
+        "price": 59,
+        "stock": 5,
+        "variant": "150cm",
+        "description": "Standard kompositt AV (lyd og bilde) kabel. Ofte brukt på eldre AV utstyr."
+      }
+    ]
+  },
+  {
+    "name": "Kompositt til HDMI Konverter",
+    "sku": "kompositt-til-hdmi-konverter",
+    "categories": ["diverse", "bilde"],
+    "variants": [
+      {
+        "price": 229,
+        "stock": 0,
+        "variant": "",
+        "description": "Konverteringsboks for kompositt til HDMI. Gjør om et analogt kompositt signal til et digitalt HDMI signal. Aluminiumskonstruksjon med strømforsyning via micro-USB (kabel følger med)."
+      }
+    ]
+  },
+  {
+    "name": "Micro-HDMI Kabel",
+    "sku": "micro-hdmi-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 89,
+        "stock": 5,
+        "variant": "1m",
+        "description": "HDMI til micro HDMI kabel. Gullbelagte kontaktflater for best mulig signaloverføring."
+      },
+      {
+        "price": 129,
+        "stock": 2,
+        "variant": "3m",
+        "description": "HDMI til micro HDMI kabel. Gullbelagte kontaktflater for best mulig signaloverføring."
+      }
+    ]
+  },
+  {
+    "name": "Micro-USB 3.0 Kabel",
+    "sku": "micro-usb-3-0-kabel",
+    "categories": ["usb"],
+    "variants": [
+      { "price": 69, "stock": 4, "variant": "20cm", "description": "Standard micro-USB 3.0 kabel." },
+      { "price": 79, "stock": 4, "variant": "1m", "description": "Standard micro-USB 3.0 kabel." },
+      { "price": 98, "stock": 0, "variant": "3m", "description": "Standard micro-USB 3.0 kabel." }
+    ]
+  },
+  {
+    "name": "Micro-USB Kabel",
+    "sku": "micro-usb-kabel",
+    "categories": ["usb"],
+    "variants": [
+      { "price": 69, "stock": 2, "variant": "20cm", "description": "Standard micro-USB kabel." },
+      { "price": 89, "stock": 3, "variant": "1m", "description": "Standard micro-USB kabel." },
+      { "price": 119, "stock": 1, "variant": "3m", "description": "Standard micro-USB kabel." }
+    ]
+  },
+  {
+    "name": "Micro-USB til USB-C Adapter",
+    "sku": "micro-usb-til-usb-c-adapter",
+    "categories": ["usb"],
+    "featured": true,
+    "variants": [
+      {
+        "price": 79,
+        "stock": 9,
+        "variant": "",
+        "description": "Overgang fra micro-USB (hunn) til USB-C (hann).  Pris per stk."
+      }
+    ]
+  },
+  {
+    "name": "Mini DisplayPort til DVI adapter",
+    "sku": "mini-displayport-til-dvi-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 3,
+        "variant": "",
+        "description": "Mini DisplayPort (hann) til DVI (hunn) adapter. Brukes som overgang mellom nevnte grensesnitt."
+      }
+    ]
+  },
+  {
+    "name": "Mini-Displayport til VGA Adapter",
+    "sku": "mini-displayport-til-vga-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 4,
+        "variant": "",
+        "description": "Mini-Displayport til VGA adapter. Kan benyttes som overgang mellom nevnte grensesnitt."
+      }
+    ]
+  },
+  {
+    "name": "Mini-DVI til HDMI adapter",
+    "sku": "mini-dvi-til-hdmi-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 5,
+        "variant": "",
+        "description": "Mini-DVI (hann) til HDMI (hunn) adapter. Kan benyttes som overgang mellom nevnte grensesnitt."
+      }
+    ]
+  },
+  {
+    "name": "Mini-HDMI Kabel",
+    "sku": "mini-hdmi-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 69,
+        "stock": 2,
+        "variant": "30cm",
+        "description": "Mini-HDMI til HDMI kabel. Kan benyttes som overgang mellom nevnte grensesnitt."
+      },
+      {
+        "price": 89,
+        "stock": 5,
+        "variant": "1m",
+        "description": "Mini-HDMI til HDMI kabel. Kan benyttes som overgang mellom nevnte grensesnitt."
+      },
+      {
+        "price": 129,
+        "stock": 3,
+        "variant": "3m",
+        "description": "Mini-HDMI til HDMI kabel. Kan benyttes som overgang mellom nevnte grensesnitt."
+      }
+    ]
+  },
+  {
+    "name": "Mini-Toslink/Optisk Kabel",
+    "sku": "mini-toslink-optisk-kabel",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 98,
+        "stock": 1,
+        "variant": "2m",
+        "description": "Mini-Toslink / Optisk digitalkabel. Ofte brukt for digital lyd ut fra diverse Apple produkter som Macbook og Airport Express."
+      }
+    ]
+  },
+  {
+    "name": "Mini-USB Kabel",
+    "sku": "mini-usb-kabel",
+    "categories": ["usb"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 7,
+        "variant": "1m",
+        "description": "USB til mini-USB kabel. Brukes ofte av eksterne hardisker, håndkontrollere mm."
+      },
+      {
+        "price": 98,
+        "stock": 5,
+        "variant": "3m",
+        "description": "USB til mini-USB kabel. Brukes ofte av eksterne hardisker, håndkontrollere mm."
+      }
+    ]
+  },
+  {
+    "name": "Minijack Kabel",
+    "sku": "minijack-kabel",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 3,
+        "variant": "3m",
+        "description": "Minijack kabel av høy kvalitet. Flettet tekstil-kabel med gullbelagte kontaktender. Godt isolert."
+      }
+    ]
+  },
+  {
+    "name": "Minijack Splitter (Y-ledd)",
+    "sku": "minijack-splitter-y-ledd",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 59,
+        "stock": 3,
+        "variant": "",
+        "description": "Splitter et mini-jack signal opp i to. Gjør det bla. mulig å benytte 2 hodetelefoner mot kun én hodetelefon utgang."
+      }
+    ]
+  },
+  {
+    "name": "Minijack til Jack Adapter",
+    "sku": "minijack-til-jack-adapter",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 59,
+        "stock": 1,
+        "variant": "",
+        "description": "Minijack (hunn) til jack (hann) adapter/overgang. Gullbelagte kontaktflater. Stereo. Pris pr stk."
+      }
+    ]
+  },
+  {
+    "name": "Nintendo DS / GBA Kabel",
+    "sku": "nintendo-ds-gba-kabel",
+    "categories": ["usb", "diverse"],
+    "variants": [
+      {
+        "price": 119,
+        "stock": 10,
+        "variant": "120cm",
+        "description": "Ladekabel for første generasjon Nintendo DS samt Gameboy Advance."
+      }
+    ]
+  },
+  {
+    "name": "Nintendo DS Lite Kabel",
+    "sku": "nintendo-ds-lite-kabel",
+    "categories": ["usb", "diverse"],
+    "variants": [{ "price": 89, "stock": 5, "variant": "1m", "description": "Ladekabel for Nintendo DS Lite." }]
+  },
+  {
+    "name": "Nintendo DSi / 3DS kabel",
+    "sku": "nintendo-dsi-3ds-kabel",
+    "categories": ["usb", "diverse"],
+    "featured": true,
+    "variants": [{ "price": 89, "stock": 9, "variant": "150cm", "description": "Ladekabel for Nintendo 3DS og DSi." }]
+  },
+  {
+    "name": "Nintendo Wii U GamePad Ladekabel",
+    "sku": "nintendo-wii-u-gamepad-ladekabel",
+    "categories": ["usb", "diverse"],
+    "variants": [{ "price": 89, "stock": 0, "variant": "1m", "description": "Ladekabel for Nintendo Wii U GamePad." }]
+  },
+  {
+    "name": "RCA Kabel",
+    "sku": "rca-kabel",
+    "categories": ["lyd"],
+    "variants": [{ "price": 69, "stock": 5, "variant": "150cm", "description": "Standard RCA / Phono kabel." }]
+  },
+  {
+    "name": "RCA til Jack Adapter",
+    "sku": "rca-til-jack-adapter",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 49,
+        "stock": 4,
+        "variant": "",
+        "description": "RCA (hunn) til Jack (hann) adapter/overgang. Gullbelagte kontaktflater. Mono. Pris pr stk."
+      }
+    ]
+  },
+  {
+    "name": "RCA til Minijack Kabel",
+    "sku": "rca-til-minijack-kabel",
+    "categories": ["lyd"],
+    "variants": [
+      { "price": 59, "stock": 4, "variant": "150cm", "description": "RCA til mini-jack kabel (også kalt AUX kabel)." }
+    ]
+  },
+  {
+    "name": "RCA til XLR Adapter",
+    "sku": "rca-til-xlr-adapter",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 6,
+        "variant": "",
+        "description": "RCA / phono (hunn) til XLR (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt. Heavy duty konstruksjon."
+      }
+    ]
+  },
+  {
+    "name": "SCART Kabel",
+    "sku": "scart-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 98,
+        "stock": 2,
+        "variant": "150cm",
+        "description": "SCART kabel. Benyttes ofte på eldre DVD og VCR spillere og lignende. Lengde 150cm."
+      }
+    ]
+  },
+  {
+    "name": "Strømkabel (2-pol)",
+    "sku": "stromkabel-2-pol",
+    "categories": ["diverse"],
+    "variants": [{ "price": 79, "stock": 3, "variant": "120cm", "description": "Standard 2-pol strømkabel." }]
+  },
+  {
+    "name": "Strømkabel (3-pol)",
+    "sku": "stromkabel-3-pol",
+    "categories": ["diverse"],
+    "variants": [{ "price": 98, "stock": 2, "variant": "120cm", "description": "Alternativ 3-pol strømkabel." }]
+  },
+  {
+    "name": "Strømkabel Standard (3-pol)",
+    "sku": "stromkabel-standard-3-pol",
+    "categories": ["diverse"],
+    "variants": [{ "price": 98, "stock": 0, "variant": "120cm", "description": "Standard 3-pol strømkabel." }]
+  },
+  {
+    "name": "Toslink/Optisk Kabel",
+    "sku": "toslink-optisk-kabel",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 89,
+        "stock": 1,
+        "variant": "1m",
+        "description": "Toslink / Optisk digitalkabel. Brukes til digital overføring av lyd."
+      },
+      {
+        "price": 119,
+        "stock": 5,
+        "variant": "3m",
+        "description": "Toslink / Optisk digitalkabel. Brukes til digital overføring av lyd."
+      }
+    ]
+  },
+  {
+    "name": "USB 3.0 Kabel",
+    "sku": "usb-kabel",
+    "categories": ["usb"],
+    "variants": [
+      {
+        "price": 69,
+        "stock": 5,
+        "variant": "50cm",
+        "description": "Standard USB kabel. Teoretisk overføringshastighet på opp til 5Gbps (10x hastigheten på USB 2.0)."
+      },
+      {
+        "price": 79,
+        "stock": 5,
+        "variant": "150cm",
+        "description": "Standard USB kabel. Teoretisk overføringshastighet på opp til 5Gbps (10x hastigheten på USB 2.0)."
+      },
+      {
+        "price": 98,
+        "stock": 5,
+        "variant": "3m",
+        "description": "Standard USB kabel. Teoretisk overføringshastighet på opp til 5Gbps (10x hastigheten på USB 2.0)."
+      }
+    ]
+  },
+  {
+    "name": "USB Extension Adapter",
+    "sku": "usb-extension-adapter",
+    "categories": ["usb"],
+    "variants": [
+      {
+        "price": 59,
+        "stock": 3,
+        "variant": "",
+        "description": "Kan brukes for å skjøte sammen et par USB kabler. Er bakoverkompatibel med eldre USB versjoner."
+      }
+    ]
+  },
+  {
+    "name": "USB til USB-C Adapter",
+    "sku": "usb-til-usb-c-adapter",
+    "categories": ["usb"],
+    "featured": true,
+    "variants": [
+      {
+        "price": 89,
+        "stock": 0,
+        "variant": "",
+        "description": "Vanlig USB til USB-C adapter. Spesielt hendig på nyere utstyr med de nye USB-C portene."
+      }
+    ]
+  },
+  {
+    "name": "USB til Xbox 360 Adapter",
+    "sku": "usb-til-xbox-360-adapter",
+    "categories": ["usb", "diverse"],
+    "featured": true,
+    "variants": [
+      {
+        "price": 89,
+        "stock": 3,
+        "variant": "",
+        "description": "USB til Xbox 360 kontroller kabel. Gjør det mulig å koble din kablede Xbox 360 kontroller til PC / Mac."
+      }
+    ]
+  },
+  {
+    "name": "USB Vinkel Adapter",
+    "sku": "usb-vinkel-adapter",
+    "categories": ["usb"],
+    "variants": [
+      {
+        "price": 59,
+        "stock": 2,
+        "variant": "",
+        "description": "USB 3.0. Egner seg godt til bruk i trange applikasjoner, som f.eks bak en flat-tv eller lignende."
+      }
+    ]
+  },
+  {
+    "name": "USB-B Kabel",
+    "sku": "usb-b-kabel",
+    "categories": ["usb"],
+    "variants": [
+      { "price": 79, "stock": 2, "variant": "1m", "description": "Mye brukt i skrivere/printere, studioutstyr mm." },
+      { "price": 98, "stock": 5, "variant": "3m", "description": "Mye brukt i skrivere/printere, studioutstyr mm." }
+    ]
+  },
+  {
+    "name": "USB-C Kabel",
+    "sku": "usb-c-kabel",
+    "categories": ["usb"],
+    "variants": [
+      {
+        "price": 129,
+        "stock": 7,
+        "variant": "",
+        "description": "Robust USB-C kabel av god kvalitet. Høy ladekapasitet på 2,4 A, og opptil 480 Mbps dataoverføring."
+      }
+    ]
+  },
+  {
+    "name": "USB-C til USB Adapter",
+    "sku": "usb-c-til-usb-adapter",
+    "categories": ["usb"],
+    "variants": [{ "price": 79, "stock": 10, "variant": "", "description": "Overgang fra USB-C til vanlig USB. " }]
+  },
+  {
+    "name": "VGA Kabel",
+    "sku": "vga-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      { "price": 89, "stock": 4, "variant": "150cm", "description": "Robust VGA kabel av god kvalitet." },
+      { "price": 129, "stock": 5, "variant": "3m", "description": "Robust VGA kabel av god kvalitet." },
+      { "price": 159, "stock": 5, "variant": "5m", "description": "Robust VGA kabel av god kvalitet." }
+    ]
+  },
+  {
+    "name": "VGA til DVI Adapter",
+    "sku": "vga-til-dvi-adapter",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 69,
+        "stock": 2,
+        "variant": "",
+        "description": "VGA (hunn) til DVI (hann) adapter. Kan brukes som overgang mellom VGA til DVI. Gullbelagte kontaktflater."
+      }
+    ]
+  },
+  {
+    "name": "Vinklet HDMI Kabel",
+    "sku": "vinklet-hdmi-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 98,
+        "stock": 3,
+        "variant": "1m",
+        "description": "Vinklet HDMI kabel av god kvalitet. Gullbelagte kontaktflater."
+      },
+      {
+        "price": 119,
+        "stock": 5,
+        "variant": "2m",
+        "description": "Vinklet HDMI kabel av god kvalitet. Gullbelagte kontaktflater."
+      }
+    ]
+  },
+  {
+    "name": "Vinklet Mini-HDMI Kabel",
+    "sku": "vinklet-mini-hdmi-kabel",
+    "categories": ["bilde"],
+    "variants": [
+      {
+        "price": 89,
+        "stock": 4,
+        "variant": "50cm",
+        "description": "Vinklet Mini HDMI til HDMI kabel. Kan benyttes som overgang mellom nevnte grensesnitt."
+      }
+    ]
+  },
+  {
+    "name": "XLR til Jack Adapter",
+    "sku": "xlr-til-jack-adapter",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 8,
+        "variant": "",
+        "description": "XLR (hunn) til Jack (hann) adapter/overgang. Kan benyttes som overgang mellom nevnte grensesnitt. Heavy duty konstruksjon."
+      }
+    ]
+  },
+  {
+    "name": "XLR til Minijack Kabel",
+    "sku": "xlr-til-minijack-kabel",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 89,
+        "stock": 0,
+        "variant": "1m",
+        "description": "2x XLR til minijack (stereo) adapter kabel av god kvalitet."
+      }
+    ]
+  },
+  {
+    "name": "XLR til RCA Adapter",
+    "sku": "xlr-til-rca-adapter",
+    "categories": ["lyd"],
+    "variants": [
+      {
+        "price": 79,
+        "stock": 3,
+        "variant": "",
+        "description": "XLR (hunn) til RCA (hann) adapter. Kan benyttes som overgang mellom nevnte grensesnitt. Heavy duty konstruksjon. Pris pr stk."
+      }
+    ]
+  }
+]
